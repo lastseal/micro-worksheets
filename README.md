@@ -23,3 +23,10 @@ print(ws)
 ## Documentación
 
 [Crear Cuenta Bot](https://docs.gspread.org/en/v5.7.0/oauth2.html#)
+
+## FAQ
+
+| Error | Solución |
++---+---+
+| This operation is not supported for this document | |
+| The caller does not have permission | |
