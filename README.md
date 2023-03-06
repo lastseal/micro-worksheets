@@ -26,7 +26,9 @@ print(ws)
 
 ## FAQ
 
-| Error | Solución |
-|--|--|
-| This operation is not supported for this document | |
-| The caller does not have permission | |
+### Error - This operation is not supported for this document
+
+This error happens normally because the file was saved in .xlsx extension and you need to converted it to Google Sheet format by importing the excel file in your google spreadsheet instead of directly uploading it to Google Drive.
+
+### Error - The caller does not have permission
+
