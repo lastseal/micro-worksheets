@@ -27,6 +27,5 @@ print(ws)
 ## FAQ
 
 | Error | Solución |
-+---+---+
 | This operation is not supported for this document | |
 | The caller does not have permission | |
